@@ -8,6 +8,6 @@ Fixed-rate and fixed-term loan from USD2,000 to USD40,000 are being offered to b
 There are 81 features with over 100,000 rows with loans starting from 2005 to 2014. In this EDA, only selective features will be performed on.
 
 ## Link
-[Code] ()
+[Code](https://nbviewer.jupyter.org/github/mxtng/prosper-loan-eda/blob/master/src/prosper-loan-eda.ipynb)
 
 
